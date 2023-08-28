@@ -1,3 +1,4 @@
 nara resolusi
 -konsisten untuk membuat project 
 -konsisten dalam belajar
+- membuat responsive website
